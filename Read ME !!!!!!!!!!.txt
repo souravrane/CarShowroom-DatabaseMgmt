@@ -1,0 +1,9 @@
+Read me
+
+1) install wamp server
+2) type: localhost in address bar and open phpmyadmin
+3) create a database - " car_showroom "
+4) set password for the database as : " root "
+5) run the wamp server 
+6) start the project ... " localhost/carshowroom
+7) for admin part .... " localhost/carshowroom/admin/admin.php
